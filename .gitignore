@@ -1,3 +1,14 @@
-target/**
+target/
+target-eclipse/
+.settings/
+.project
+.classpath
 stacktrace.log
-.DS_Store
+*~
+*.iml
+*.ipr
+*.iws
+.idea/
+.groovy/
+.idea/
+out/
