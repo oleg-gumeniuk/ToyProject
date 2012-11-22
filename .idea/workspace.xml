@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a9f6c8d-fa96-4d76-8c98-59b966d91fef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ToyProject-grailsPlugins.iml" />
-    </list>
+    <list default="true" id="2a9f6c8d-fa96-4d76-8c98-59b966d91fef" name="Default" comment="" />
     <ignored path="GettingStartedWithGrails.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
