@@ -1,4 +1,7 @@
-class AdminController{ 
+import com.racetrack.bean.RaceBean
+import com.racetrack.bean.RegistrationBean
+
+class AdminController{
   def beforeInterceptor = [action:this.&auth] 
    
   def auth() { 
@@ -13,5 +16,5 @@ class AdminController{
     }     
   }   
    
-  def index = {} 
-} 
+  def index = {}
+}
