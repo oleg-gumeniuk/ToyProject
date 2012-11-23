@@ -46,7 +46,7 @@
       <div class="paginateButtons">
         <g:paginate total="${raceInstanceTotal}" />
       </div>
-        <g:jasperReport controller="race" action="generateReport" jasper="sample-jasper-plugin" format="PDF" name="All Races" />
+        <g:jasperReport controller="race" action="generateReport" jasper="myreport" format="PDF" name="All Races" />
     </div>
   </body>
 </html>
